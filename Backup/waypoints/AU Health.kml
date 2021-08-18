@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>AUG</name>
+    <description>AU Health</description>
+    <Style id="style1">
+      <IconStyle>
+        <Icon>
+          <href>
+          http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>ABBEVILLE_AREA_MED_CTR</name>
+      <description>ABBEVILLE, SC ABVLE SC83</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.382,34.1583333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADVENTHEALTH_GORDON</name>
+      <description>CALHOUN, GA CALHN GE02</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.9276666666667,34.5103333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ADVENTHEALTH_MURRAY</name>
+      <description>CHATSWORTH, GA CHATS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.7835,34.7806666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AIKEN_REG_MED_CTR</name>
+      <description>AIKEN, SC AIKEN
+
+Favorite Zone/Ch: B01/015
+Zone: B20
+Ch #: 009
+AIKN ER</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.7621666666667,33.5721666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ALLENDALE_COUNTY_HOSP</name>
+      <description>FAIRFAX, SC ALNDL</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.249,32.965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ANGEL_MED_CTR</name>
+      <description>FRANKLIN, NC FRKNC 93NC</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.38,35.1845,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ATHENS_REG</name>
+      <description>ATHENS, GA ATHEN</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.3971666666667,33.9618333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AUGUSTA_UNIVERSITY_HEALTH</name>
+      <description>AUGUSTA, GA AUH 4GA2
+
+Favorite Zone/Ch: A01/001
+Zone: A10
+Ch #: 001
+GA/SC HEAR</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.988,33.4713333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BACON_COUNTY_HOSP</name>
+      <description>ALMA, GA ALMA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.4586666666667,31.539,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BURKE_MED_CTR</name>
+      <description>WAYNESBORO, GA WAYNE 2GE1</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -82.0133333333333,33.0833333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CANDLER_COUNTY_HOSP</name>
+      <description>METTER, GA MITTR GA32</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.0651666666667,32.4075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CARTERSVILLE_MED_CTR</name>
+      <description>CARTERSVILLE, GA CARTR</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.7941666666667,34.2015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHATUGE_REG_HOSP</name>
+      <description>HIAWASEE, GA HIWAS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.7536666666667,34.947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHOA_EGLESTON</name>
+      <description>ATLANTA, GA EGLE 60GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.3193333333333,33.794,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHOA_SCOTTISH_RITE</name>
+      <description>SANDY SPRINGS, GA SCRT GA11</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.3541666666667,33.9071666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COFFEE_REG_MED_CTR</name>
+      <description>DOUGLAS, GA DOUGL</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.8636666666667,31.5115,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>COLQUITT_REG_MED_CTR</name>
+      <description>MOULTRIE, GA MOULT</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.7786666666667,31.126,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DOCTORS_HOSP</name>
+      <description>AUGUSTA, GA AUGDR 8GA4
+
+A Pad = East Side (ER)
+B Pad = Northwest Side (Burn)
+      
+Favorite Zone/Ch: A01/001
+Zone: A10
+Ch #: 001
+GA/SC HEAR</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.0933333333333,33.4865,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DODGE_COUNTY_HOSP</name>
+      <description>EASTMAN, GA DODGE</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.1775,32.18416667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DORMINY_MED_CTR</name>
+      <description>FITZGERALD, GA FITZ 9GA7</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.2601666666667,31.6968333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EAST_GEORGIA_REG_MED_CTR</name>
+      <description>STATESBORO, GA EGRMC GA28</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.7688333333333,32.4138333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EASTSIDE_MED_CTR</name>
+      <description>SNELLVILLE, GA SNELV 12GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.0198333333333,33.8773333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EDGEFIELD_COUNTY_HOSP</name>
+      <description>EDGEFIELD, SC EDGFD</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.9093333333333,33.7711666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EFFINGHAM_HOSP</name>
+      <description>SPRINGFIELD, GA SPGFD</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.3215,32.362,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ELBERT_MEM_HOSP</name>
+      <description>ELBERTON, GA ELBRT</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -82.8751666666667,34.1141666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMANUEL_MED_CTR</name>
+      <description>SWAINSBORO, GA SWAIN 93GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.348,32.5928333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMORY_ADVENTIST_HOSP</name>
+      <description>SMYRNA, GA SMYRN 40GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.5125,33.8585,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMORY_JOHNS_CREEK_HOSP</name>
+      <description>DULUTH, GA EJCRE GE28</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.1775,34.0675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EMORY_UNIV_HOSP_MIDTOWN</name>
+      <description>ATLANTA, GA EMORY GA64</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.3868333333333,33.7686666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EVANS_MEM_HOSP</name>
+      <description>CLAXTON, GA EVANS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.8983333333333,32.1665,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FAIRVIEW_PARK_HOSP</name>
+      <description>DUBLIN, GA DUBLN 48GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.9505,32.5333333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FANNIN_REG_HOSP</name>
+      <description>BLUE RIDGE, GA BLURG</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.3753333333333,34.9173333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GEORGIA_UNIVERSITY_MED_CTR</name>
+      <description>AUGUSTA, GA AUGMC GA13</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.9831666666667,33.4716666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>GRADY_MEM_HOSP</name>
+      <description>ATLANTA, GA GRADY 1GE8</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.382,33.7525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HABERSHAM_MED_CTR</name>
+      <description>DEMOREST, GA DEMRS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.5375,34.5806666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HAMILTON_MED_CTR</name>
+      <description>DALTON, GA DALTN GA70</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.981,34.7883333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>HANCOCK_MEM_HOSP</name>
+      <description>SPARTA, GA SPART</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.9721666666667,33.2685,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JASPER_MEM_HOSP</name>
+      <description>MONTICELLO, GA MONT</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.6871666666667,33.314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JEFFERSON_COUNTY_HOSP</name>
+      <description>LOUISVILLE, GA LOUIS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.4058333333333,33.0105,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JENKINS_COUNTY_MED_CTR</name>
+      <description>MILLEN, GA JCMC</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.933,32.8045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LAURELWOOD_NORTHEAST_GEORGIA_MED_CTR</name>
+      <description>GAINESVILLE, GA GAINE</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.814,34.303,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LEXINGTON_MED_CTR</name>
+      <description>WEST COLUMBIA, SC LEXMC SC18</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.1128333333333,34.0046666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MCLEOD_HEALTH_CHERAW</name>
+      <description>CHERAW, SC CHRAW</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -79.92,34.69366667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MED_CTR_NAVICENT_HEALTH</name>
+      <description>MACON, GA MACON 77GE</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.6361666666667,32.8345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MED_CTR_OF_COLUMBUS_GA</name>
+      <description>COLUMBUS, GA COLUM 01GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.9803333333333,32.4811666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MEDICAL_UNIVERSITY_OF_SOUTH_CAROLINA_HEALTH</name>
+      <description>CHARLESTON, SC MUSCH SC71
+
+Favorite Zone/Ch: B01/016
+Zone: B20
+Ch #: 014
+MUSC ER</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-79.951,32.7868333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MEMORIAL_HEALTH_MEADOWS_HOSP</name>
+      <description>VIDALIA, GA VIDAL</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.3763333333333,32.209,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MEMORIAL_HOSP</name>
+      <description>SAVANNAH, GA SAVAN GA37
+
+Favorite Zone/Ch: A01/001
+Zone: A10
+Ch #: 001
+GA/SC HEAR</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.0885,32.029,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MEMORIAL_HOSP_AND_MANOR</name>
+      <description>BAINBRIDGE, GA BAIN 4GA3</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.5531666666667,30.9035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MORGAN_MED_CTR</name>
+      <description>MADISON, GA MADIS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.4728333333333,33.5686666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MURPHY_MED_CTR</name>
+      <description>MURPHY, NC MURPH 5NC4</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.968,35.072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NEWTON_GEN_HOSP</name>
+      <description>COVINGTON, GA COVNG 71GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.8486666666667,33.6018333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTH_FULTON_HOSP</name>
+      <description>ROSWELL, GA ROSWL</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.3211666666667,34.063,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTHEAST_GEORGIA_MED_CTR</name>
+      <description>BRASELTON, GA BRAST</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.837,34.1211666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTHEAST_GEORGIA_MED_CTR_BARROW</name>
+      <description>WINDER, GA WINDR 59GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.7083333333333,34.0081666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTHRIDGE_MED_CTR</name>
+      <description>COMMERCE, GA COMMR</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.4703333333333,34.2186666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTHSIDE_HOSP_ATLANTA</name>
+      <description>ATLANTA, GA NSIDE GA55</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.3558333333333,33.9098333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTHSIDE_HOSP_CHEROKEE</name>
+      <description>CANTON, GA CANTN 8GE8</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.4911666666667,34.2468333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTHSIDE_HOSP_FORSYTH</name>
+      <description>CUMMING, GA CUMNG 2GA4</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.1401666666667,34.1798333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NORTHSIDE_HOSP_GWINNETT</name>
+      <description>LAWRENCEVILLE, GA LAWVL 55GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.0183333333333,33.9635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>OPTIM_MED_CTR_SCREVEN</name>
+      <description>SYLVANIA, GA SYLVN</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.6438333333333,32.7515,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PAULDING_MEM_HOSP</name>
+      <description>DALLAS, GA PAULD GA69</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.8526666666667,33.9198333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PEACH_REG_MED_CTR</name>
+      <description>BYRON, GA BYRON 28GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.7588333333333,32.6061666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PERRY_HOSP</name>
+      <description>PERRY, GA PERRY</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.7498333333333,32.503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHOEBE_PUTNEY_MEM_HOSP</name>
+      <description>ALBANY, GA ABYFP</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.1568333333333,31.5913333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHOEBE_SUMTER_MED_CTR</name>
+      <description>AMERICUS, GA AMERI 1GA7</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.2553333333333,32.0675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHOEBE_WORTH_MED_CTR</name>
+      <description>SYLVESTER, GA SYLVS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.8403333333333,31.5123333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_ATLANTA_HOSP</name>
+      <description>ATLANTA, GA ATLPM</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.3951666666667,33.80966667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_FAYETTE_HOSP</name>
+      <description>FAYETTE, GA FAYET</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.5066666666667,33.4526666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_HENRY_HOSP</name>
+      <description>STOCKBRIDGE, GA STCKB 43GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.2266666666667,33.5136666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_MOUNTAINSIDE_HOSP</name>
+      <description>JASPER, GA JASPR</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.4463333333333,34.446,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_NEWNAN_HOSP</name>
+      <description>NEWNAN, GA NEWNN 21GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.7558333333333,33.3583333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_WALTON_HOSP</name>
+      <description>MONROE, GA MONRO GA38</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.7496666666667,33.8,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PROVIDENCE_HOSP</name>
+      <description>COLUMBIA, SC PRVDC SC77</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.0118333333333,34.0148333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>REDMOND_REG_MED_CTR</name>
+      <description>ROME, GA ROMER GA12</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-85.194,34.2776666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RICHLAND_MEM_HOSP</name>
+      <description>COLUMBIA, SC RCHLN SC22
+
+Favorite Zone/Ch: B01/017
+Zone: B20
+Ch #: 021
+RICHLND ER</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.0326666666667,34.0293333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ROCKDALE_MED_CTR</name>
+      <description>CONYERS, GA CONYR 3GE5</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.0028333333333,33.68,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SELF_REG_MED_CTR</name>
+      <description>GREENWOOD, SC GRNWD
+
+Zone: A20
+Ch #: 031
+SELMEM ER</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.1546666666667,34.1735,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOUTH_GEORGIA_MED_CTR</name>
+      <description>VALDOSTA, GA VALDO 54GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.2856666666667,30.862,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOUTHEAST_GEORGIA_HEALTH</name>
+      <description>BRUNSWICK, GA BRUNS GE24</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.4851666666667,31.1755,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOUTHERN_REG_MED_CTR</name>
+      <description>RIVERDALE, GA RVRDL 49GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.3881666666667,33.5796666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SPALDING_REG_MED_CTR</name>
+      <description>GRIFFIN, GA GRFIN 45GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.2665,33.2398333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ST_MARYS_GOOD_SAMARITAN</name>
+      <description>GREENSBORO, GA GREEN</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.2416666666667,33.4821666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ST_MARYS_HOSP</name>
+      <description>ATHENS, GA STMRY 7GA0</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.407,33.9485,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ST_MARYS_SACRED_HEART_HOSP</name>
+      <description>LAVONIA, GA LAVON</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.131,34.4413333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SYLVAN_GROVE_HOSP</name>
+      <description>JACKSON, GA JAKSN</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.9771666666667,33.3038333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TANNER_MED_CTR</name>
+      <description>CARROLLTON, GA CAROL 3GA2</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-85.0753333333333,33.57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TANNER_MED_CTR_VILLA_RICA</name>
+      <description>VILLA RICA, GA VILRC 87GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.9151666666667,33.7445,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TIFT_REG_MED_CTR</name>
+      <description>TIFTON, GA TIFTN</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.4911666666667,31.4708333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UNION_GENERAL_HOSP</name>
+      <description>BLAIRSVILLE, GA BLAIR 1GA3</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.9618333333333,34.8853333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UNIVERSITY_HOSP_MCDUFFIE</name>
+      <description>THOMSON, GA THOMH</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -82.5026666666667,33.5238333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WASHINGTON_COUNTY_REG_MED_CTR</name>
+      <description>SANDERSVILLE, GA SANDV 58GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.8046666666667,32.9965,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WELLSTAR_ATLANTA_MED_CTR</name>
+      <description>ATLANTA, GA WAMC</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.374,33.7626666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WELLSTAR_ATLANTA_MED_CTR_SOUTH</name>
+      <description>ATLANTA, GA WAMCS GA71</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.4273333333333,33.6795,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WELLSTAR_COBB_HOSP</name>
+      <description>AUSTELL, GA AUSTL 34GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.6066666666667,33.8571666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WELLSTAR_DOUGLAS_HOSP</name>
+      <description>DOUGLASVILLE, GA DOUGV 3GE6</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.7323333333333,33.7385,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WELLSTAR_KENNESTONE_HOSP</name>
+      <description>MARIETTA, GA KENST 56GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -84.5513333333333,33.9676666666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WEST_GEORGIA_MED_CTR</name>
+      <description>LAGRANGE, GA LAGRG GA33</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-85.0571666666667,33.0315,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WILLS_MEM_HOSP</name>
+      <description>WASHINGTON, GA WSHTN</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.743333333333,33.72883333,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
