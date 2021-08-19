@@ -467,6 +467,15 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>NAVICENT_HEALTH_BALDWIN</name>
+      <description>MILLEDGEVILLE, GA NAVIC</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.2438333333333,33.08983333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>NEWTON_GEN_HOSP</name>
       <description>COVINGTON, GA COVNG 71GA</description>
       <styleUrl>#style1</styleUrl>
