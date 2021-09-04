@@ -224,6 +224,14 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>EDGEFIELD_COUNTY_HOSP_ALT</name>
+      <description>EDGEFIELD, SC EDGF2</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.93100000,33.778333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>EFFINGHAM_HOSP</name>
       <description>SPRINGFIELD, GA SPGFD</description>
       <styleUrl>#style1</styleUrl>

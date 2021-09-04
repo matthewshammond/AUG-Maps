@@ -1,101 +1,102 @@
 ﻿LATITUDE,LONGITUDE,TITLE,CAD Identifiers and/or Description,FAA IDENTIFIER,AIRPORT
 34 09.50 N,82 22.92 W,ABVLE,"Abbeville Area Med Ctr-Abbeville, SC",SC83,YES
-34 30.62 N,84 55.66 W,CALHN,"AdventHealth Gordon-Calhoun, GA",GE02,YES
-34 46.84 N,84 47.01 W,CHATS,"AdventHealth Murray-Chatsworth, GA",,NO
+31 35.48 N,84 09.41 W,ABYFP,"Phoebe Putney Mem Hosp-Albany, GA",,NO
 33 34.33 N,81 45.73 W,AIKEN,"Aiken Reg Med Ctr-Aiken, SC",,NO
-32 57.90 N,81 14.94 W,ALNDL,"Allendale County Hosp-Fairfax, SC",,NO
-35 11.07 N,83 22.80 W,FRKNC,"Angel Med Ctr-Franklin, NC",93NC,YES
-33 57.71 N,83 23.83 W,ATHEN,"Athens Reg-Athens, GA",,NO
-33 28.28 N,81 59.28 W,AUH,"Augusta University Health-Augusta, GA",4GA2,YES
 31 32.34 N,82 27.52 W,ALMA,"Bacon County Hosp-Alma, GA",,NO
-33 05.00 N,82 00.80 W,WAYNE,"Burke Med Ctr-Waynesboro, GA",2GE1,YES
-32 24.45 N,82 03.91 W,MITTR,"Candler County Hosp-Metter, GA",GA32,YES
-34 12.09 N,84 47.65 W,CARTR,"Cartersville Med Ctr-Cartersville, GA",,NO
-34 56.82 N,83 45.22 W,HIWAS,"Chatuge Reg Hosp-Hiawasee, GA",,NO
-33 47.64 N,84 19.16 W,EGLE,"CHOA Egleston-Atlanta, GA",60GA,YES
-33 54.43 N,84 21.25 W,SCRT,"CHOA Scottish Rite-Sandy Springs, GA",GA11,YES
-31 30.69 N,82 51.82 W,DOUGL,"Coffee Reg Med Ctr-Douglas, GA",,NO
-31 07.56 N,83 46.72 W,MOULT,"Colquitt Reg Med Ctr-Moultrie, GA",,NO
+32 57.90 N,81 14.94 W,ALNDL,"Allendale County Hosp-Fairfax, SC",,NO
+32 04.05 N,84 15.32 W,AMERI,"Phoebe Sumter Med Ctr-Americus, GA",1GA7,YES
+33 57.71 N,83 23.83 W,ATHEN,"Athens Reg-Athens, GA",,NO
+33 48.58 N,84 23.71 W,ATLPM,"Piedmont Atlanta Hosp-Atlanta, GA",,NO
 33 29.19 N,82 05.60 W,AUGDR,"Doctors Hosp-Augusta, GA",8GA4,YES
+33 28.30 N,81 58.99 W,AUGMC,"Georgia University Med Ctr-Augusta, GA",GA13,YES
+33 28.28 N,81 59.28 W,AUH,"Augusta University Health-Augusta, GA",4GA2,YES
+33 51.43 N,84 36.40 W,AUSTL,"Wellstar Cobb Hosp-Austell, GA",34GA,YES
+30 54.21 N,84 33.19 W,BAIN,"Memorial Hosp and Manor-Bainbridge, GA",4GA3,YES
+34 53.12 N,83 57.71 W,BLAIR,"Union General Hosp-Blairsville, GA",1GA3,YES
+34 55.04 N,84 22.52 W,BLURG,"Fannin Reg Hosp-Blue Ridge, GA",,NO
+34 07.27 N,83 50.22 W,BRAST,"Northeast Georgia Med Ctr-Braselton, GA",,NO
+31 10.53 N,81 29.11 W,BRUNS,"Southeast Georgia Health-Brunswick, GA",GE24,YES
+32 36.37 N,83 45.53 W,BYRON,"Peach Reg Med Ctr-Byron, GA",28GA,YES
+34 30.62 N,84 55.66 W,CALHN,"AdventHealth Gordon-Calhoun, GA",GE02,YES
+34 14.81 N,84 29.47 W,CANTN,"Northside Hosp Cherokee-Canton, GA",8GE8,YES
+33 34.20 N,85 04.52 W,CAROL,"Tanner Med Ctr-Carrollton, GA",3GA2,YES
+34 12.09 N,84 47.65 W,CARTR,"Cartersville Med Ctr-Cartersville, GA",,NO
+34 46.84 N,84 47.01 W,CHATS,"AdventHealth Murray-Chatsworth, GA",,NO
+34 41.62 N,79 55.20 W,CHRAW,"McLeod Health Cheraw-Cheraw, SC",,NO
+32 28.87 N,84 58.82 W,COLUM,"Med Ctr of Columbus GA-Columbus, GA",01GA,YES
+34 13.12 N,83 28.22 W,COMMR,"Northridge Med Ctr-Commerce, GA",,NO
+33 40.80 N,84 00.17 W,CONYR,"Rockdale Med Ctr-Conyers, GA",3GE5,YES
+33 36.11 N,83 50.92 W,COVNG,"Newton Gen Hosp-Covington, GA",71GA,YES
+34 10.79 N,84 08.41 W,CUMNG,"Northside Hosp Forsyth-Cumming, GA",2GA4,YES
+34 47.30 N,84 58.86 W,DALTN,"Hamilton Med Ctr-Dalton, GA",GA70,YES
+34 34.84 N,83 32.25 W,DEMRS,"Habersham Med Ctr-Demorest, GA",,NO
 32 11.05 N,83 10.65 W,DODGE,"Dodge County Hosp-Eastman, GA",,NO
-31 41.81 N,83 15.61 W,FITZ,"Dorminy Med Ctr-Fitzgerald, GA",9GA7,YES
-32 24.83 N,81 46.13 W,EGRMC,"East Georgia Reg Med Ctr-Statesboro, GA",GA28,YES
-33 52.64 N,84 01.19 W,SNELV,"Eastside Med Ctr-Snellville, GA",12GA,YES
+31 30.69 N,82 51.82 W,DOUGL,"Coffee Reg Med Ctr-Douglas, GA",,NO
+33 44.31 N,84 43.94 W,DOUGV,"Wellstar Douglas Hosp-Douglasville, GA",3GE6,YES
+32 32.00 N,82 57.03 W,DUBLN,"Fairview Park Hosp-Dublin, GA",48GA,YES
+33 46.70 N,81 55.86 W,EDGF2,"Edgefield County Hosp Alt-Edgefield, SC",,NO
 33 46.27 N,81 54.56 W,EDGFD,"Edgefield County Hosp-Edgefield, SC",,NO
-32 21.72 N,81 19.29 W,SPGFD,"Effingham Hosp-Springfield, GA",,NO
-34 06.85 N,82 52.51 W,ELBRT,"Elbert Mem Hosp-Elberton, GA",,NO
-32 35.57 N,82 20.88 W,SWAIN,"Emanuel Med Ctr-Swainsboro, GA",93GA,YES
-33 51.51 N,84 30.75 W,SMYRN,"Emory Adventist Hosp-Smyrna, GA",40GA,YES
+33 47.64 N,84 19.16 W,EGLE,"CHOA Egleston-Atlanta, GA",60GA,YES
+32 24.83 N,81 46.13 W,EGRMC,"East Georgia Reg Med Ctr-Statesboro, GA",GA28,YES
 34 04.05 N,84 10.65 W,EJCRE,"Emory Johns Creek Hosp-Duluth, GA",GE28,YES
+34 06.85 N,82 52.51 W,ELBRT,"Elbert Mem Hosp-Elberton, GA",,NO
 33 46.12 N,84 23.21 W,EMORY,"Emory Univ Hosp Midtown-Atlanta, GA",GA64,YES
 32 09.99 N,81 53.90 W,EVANS,"Evans Mem Hosp-Claxton, GA",,NO
-32 32.00 N,82 57.03 W,DUBLN,"Fairview Park Hosp-Dublin, GA",48GA,YES
-34 55.04 N,84 22.52 W,BLURG,"Fannin Reg Hosp-Blue Ridge, GA",,NO
-33 28.30 N,81 58.99 W,AUGMC,"Georgia University Med Ctr-Augusta, GA",GA13,YES
-33 45.15 N,84 22.92 W,GRADY,"Grady Mem Hosp-Atlanta, GA",1GE8,YES
-34 34.84 N,83 32.25 W,DEMRS,"Habersham Med Ctr-Demorest, GA",,NO
-34 47.30 N,84 58.86 W,DALTN,"Hamilton Med Ctr-Dalton, GA",GA70,YES
-33 16.11 N,82 58.33 W,SPART,"Hancock Mem Hosp-Sparta, GA",,NO
-33 18.84 N,83 41.23 W,MONT,"Jasper Mem Hosp-Monticello, GA",,NO
-33 00.63 N,82 24.35 W,LOUIS,"Jefferson Co Hosp-Louisville, GA",,NO
-32 48.27 N,81 55.98 W,JCMC,"Jenkins County Med Ctr-Millen, GA",,NO
-34 18.18 N,83 48.84 W,GAINE,"Laurelwood Northeast Georgia Med Ctr-Gainesville, GA",,NO
-34 00.28 N,81 06.77 W,LEXMC,"Lexington Med Ctr-West Columbia, SC",SC18,YES
-34 41.62 N,79 55.20 W,CHRAW,"McLeod Health Cheraw-Cheraw, SC",,NO
-32 50.07 N,83 38.17 W,MACON,"Med Ctr Navicent Health-Macon, GA",77GE,YES
-32 28.87 N,84 58.82 W,COLUM,"Med Ctr of Columbus GA-Columbus, GA",01GA,YES
-32 47.21 N,79 57.06 W,MUSCH,"Medical University of South Carolina Health-Charleston, SC",SC71,YES
-32 12.54 N,82 22.58 W,VIDAL,"Memorial Health Meadows Hosp-Vidalia, GA",,NO
-30 54.21 N,84 33.19 W,BAIN,"Memorial Hosp and Manor-Bainbridge, GA",4GA3,YES
-32 01.74 N,81 05.31 W,SAVAN,"Memorial Hosp-Savannah, GA",GA37,YES
-33 34.12 N,83 28.37 W,MADIS,"Morgan Med Ctr-Madison, GA",,NO
-35 04.32 N,83 58.08 W,MURPH,"Murphy Med Ctr-Murphy, NC",5NC4,YES
-33 05.39 N,83 14.63 W,NAVIC,"Navicent Health Baldwin-Milledgeville, GA",,NO
-33 36.11 N,83 50.92 W,COVNG,"Newton Gen Hosp-Covington, GA",71GA,YES
-34 03.78 N,84 19.27 W,ROSWL,"North Fulton Hosp-Roswell, GA",,NO
-34 00.49 N,83 42.50 W,WINDR,"Northeast Georgia Med Ctr Barrow-Winder, GA",59GA,YES
-34 07.27 N,83 50.22 W,BRAST,"Northeast Georgia Med Ctr-Braselton, GA",,NO
-34 13.12 N,83 28.22 W,COMMR,"Northridge Med Ctr-Commerce, GA",,NO
-33 54.59 N,84 21.35 W,NSIDE,"Northside Hosp Atlanta-Atlanta, GA",GA55,YES
-34 14.81 N,84 29.47 W,CANTN,"Northside Hosp Cherokee-Canton, GA",8GE8,YES
-34 10.79 N,84 08.41 W,CUMNG,"Northside Hosp Forsyth-Cumming, GA",2GA4,YES
-33 57.81 N,84 01.10 W,LAWVL,"Northside Hosp Gwinnett-Lawrenceville, GA",55GA,YES
-32 45.09 N,81 38.63 W,SYLVN,"Optim Med Ctr Screven-Sylvania, GA",,NO
-33 55.19 N,84 51.16 W,PAULD,"Paulding Mem Hosp-Dallas, GA",GA69,YES
-32 36.37 N,83 45.53 W,BYRON,"Peach Reg Med Ctr-Byron, GA",28GA,YES
-32 30.18 N,83 44.99 W,PERRY,"Perry Hosp-Perry, GA",,NO
-31 35.48 N,84 09.41 W,ABYFP,"Phoebe Putney Mem Hosp-Albany, GA",,NO
-32 04.05 N,84 15.32 W,AMERI,"Phoebe Sumter Med Ctr-Americus, GA",1GA7,YES
-31 30.74 N,83 50.42 W,SYLVS,"Phoebe Worth Med Ctr-Sylvester, GA",,NO
-33 48.58 N,84 23.71 W,ATLPM,"Piedmont Atlanta Hosp-Atlanta, GA",,NO
 33 27.16 N,84 30.40 W,FAYET,"Piedmont Fayette Hosp-Fayette, GA",,NO
-33 30.82 N,84 13.69 W,STCKB,"Piedmont Henry Hosp-Stockbridge, GA",43GA,YES
-34 26.76 N,84 26.78 W,JASPR,"Piedmont Mountainside Hosp-Jasper, GA",,NO
-33 21.50 N,84 45.35 W,NEWNN,"Piedmont Newnan Hosp-Newnan, GA",21GA,YES
-33 48.00 N,83 44.98 W,MONRO,"Piedmont Walton Hosp-Monroe, GA",GA38,YES
-34 00.89 N,81 00.71 W,PRVDC,"Providence Hosp-Columbia, SC",SC77,YES
-34 16.66 N,85 11.64 W,ROMER,"Redmond Reg Med Ctr-Rome, GA",GA12,YES
-34 01.76 N,81 01.96 W,RCHLN,"Richland Mem Hosp-Columbia, SC",SC22,YES
-33 40.80 N,84 00.17 W,CONYR,"Rockdale Med Ctr-Conyers, GA",3GE5,YES
-34 10.41 N,82 09.28 W,GRNWD,"Self Reg Med Ctr-Greenwood, SC",,NO
-30 51.72 N,83 17.14 W,VALDO,"South Georgia Med Ctr-Valdosta, GA",54GA,YES
-31 10.53 N,81 29.11 W,BRUNS,"Southeast Georgia Health-Brunswick, GA",GE24,YES
-33 34.78 N,84 23.29 W,RVRDL,"Southern Reg Med Ctr-Riverdale, GA",49GA,YES
-33 14.39 N,84 15.99 W,GRFIN,"Spalding Reg Med Ctr-Griffin, GA",45GA,YES
+31 41.81 N,83 15.61 W,FITZ,"Dorminy Med Ctr-Fitzgerald, GA",9GA7,YES
+35 11.07 N,83 22.80 W,FRKNC,"Angel Med Ctr-Franklin, NC",93NC,YES
+34 18.18 N,83 48.84 W,GAINE,"Laurelwood Northeast Georgia Med Ctr-Gainesville, GA",,NO
+33 45.15 N,84 22.92 W,GRADY,"Grady Mem Hosp-Atlanta, GA",1GE8,YES
 33 28.93 N,83 14.50 W,GREEN,"St Marys Good Samaritan-Greensboro, GA",,NO
-33 56.91 N,83 24.42 W,STMRY,"St Marys Hosp-Athens, GA",7GA0,YES
-34 26.48 N,83 07.86 W,LAVON,"St Marys Sacred Heart Hosp-Lavonia, GA",,NO
+33 14.39 N,84 15.99 W,GRFIN,"Spalding Reg Med Ctr-Griffin, GA",45GA,YES
+34 10.41 N,82 09.28 W,GRNWD,"Self Reg Med Ctr-Greenwood, SC",,NO
+34 56.82 N,83 45.22 W,HIWAS,"Chatuge Reg Hosp-Hiawasee, GA",,NO
 33 18.23 N,83 58.63 W,JAKSN,"Sylvan Grove Hosp-Jackson, GA",,NO
-33 44.67 N,84 54.91 W,VILRC,"Tanner Med Ctr Villa Rica-Villa Rica, GA",87GA,YES
-33 34.20 N,85 04.52 W,CAROL,"Tanner Med Ctr-Carrollton, GA",3GA2,YES
-31 28.25 N,83 29.47 W,TIFTN,"Tift Reg Med Ctr-Tifton, GA",,NO
-34 53.12 N,83 57.71 W,BLAIR,"Union General Hosp-Blairsville, GA",1GA3,YES
-33 31.43 N,82 30.16 W,THOMH,"University Hosp McDuffie-Thomson, GA",,NO
-32 59.79 N,82 48.28 W,SANDV,"Washington County Reg Med Ctr-Sandersville, GA",58GA,YES
-33 40.77 N,84 25.64 W,WAMCS,"WellStar Atlanta Med Ctr South-Atlanta, GA",GA71,YES
-33 45.76 N,84 22.44 W,WAMC,"WellStar Atlanta Med Ctr-Atlanta, GA",,NO
-33 51.43 N,84 36.40 W,AUSTL,"Wellstar Cobb Hosp-Austell, GA",34GA,YES
-33 44.31 N,84 43.94 W,DOUGV,"Wellstar Douglas Hosp-Douglasville, GA",3GE6,YES
+34 26.76 N,84 26.78 W,JASPR,"Piedmont Mountainside Hosp-Jasper, GA",,NO
+32 48.27 N,81 55.98 W,JCMC,"Jenkins County Med Ctr-Millen, GA",,NO
 33 58.06 N,84 33.08 W,KENST,"Wellstar Kennestone Hosp-Marietta, GA",56GA,YES
 33 01.89 N,85 03.43 W,LAGRG,"West Georgia Med Ctr-Lagrange, GA",GA33,YES
+34 26.48 N,83 07.86 W,LAVON,"St Marys Sacred Heart Hosp-Lavonia, GA",,NO
+33 57.81 N,84 01.10 W,LAWVL,"Northside Hosp Gwinnett-Lawrenceville, GA",55GA,YES
+34 00.28 N,81 06.77 W,LEXMC,"Lexington Med Ctr-West Columbia, SC",SC18,YES
+33 00.63 N,82 24.35 W,LOUIS,"Jefferson Co Hosp-Louisville, GA",,NO
+32 50.07 N,83 38.17 W,MACON,"Med Ctr Navicent Health-Macon, GA",77GE,YES
+33 34.12 N,83 28.37 W,MADIS,"Morgan Med Ctr-Madison, GA",,NO
+32 24.45 N,82 03.91 W,MITTR,"Candler County Hosp-Metter, GA",GA32,YES
+33 48.00 N,83 44.98 W,MONRO,"Piedmont Walton Hosp-Monroe, GA",GA38,YES
+33 18.84 N,83 41.23 W,MONT,"Jasper Mem Hosp-Monticello, GA",,NO
+31 07.56 N,83 46.72 W,MOULT,"Colquitt Reg Med Ctr-Moultrie, GA",,NO
+35 04.32 N,83 58.08 W,MURPH,"Murphy Med Ctr-Murphy, NC",5NC4,YES
+32 47.21 N,79 57.06 W,MUSCH,"Medical University of South Carolina Health-Charleston, SC",SC71,YES
+33 05.39 N,83 14.63 W,NAVIC,"Navicent Health Baldwin-Milledgeville, GA",,NO
+33 21.50 N,84 45.35 W,NEWNN,"Piedmont Newnan Hosp-Newnan, GA",21GA,YES
+33 54.59 N,84 21.35 W,NSIDE,"Northside Hosp Atlanta-Atlanta, GA",GA55,YES
+33 55.19 N,84 51.16 W,PAULD,"Paulding Mem Hosp-Dallas, GA",GA69,YES
+32 30.18 N,83 44.99 W,PERRY,"Perry Hosp-Perry, GA",,NO
+34 00.89 N,81 00.71 W,PRVDC,"Providence Hosp-Columbia, SC",SC77,YES
+34 01.76 N,81 01.96 W,RCHLN,"Richland Mem Hosp-Columbia, SC",SC22,YES
+34 16.66 N,85 11.64 W,ROMER,"Redmond Reg Med Ctr-Rome, GA",GA12,YES
+34 03.78 N,84 19.27 W,ROSWL,"North Fulton Hosp-Roswell, GA",,NO
+33 34.78 N,84 23.29 W,RVRDL,"Southern Reg Med Ctr-Riverdale, GA",49GA,YES
+32 59.79 N,82 48.28 W,SANDV,"Washington County Reg Med Ctr-Sandersville, GA",58GA,YES
+32 01.74 N,81 05.31 W,SAVAN,"Memorial Hosp-Savannah, GA",GA37,YES
+33 54.43 N,84 21.25 W,SCRT,"CHOA Scottish Rite-Sandy Springs, GA",GA11,YES
+33 51.51 N,84 30.75 W,SMYRN,"Emory Adventist Hosp-Smyrna, GA",40GA,YES
+33 52.64 N,84 01.19 W,SNELV,"Eastside Med Ctr-Snellville, GA",12GA,YES
+33 16.11 N,82 58.33 W,SPART,"Hancock Mem Hosp-Sparta, GA",,NO
+32 21.72 N,81 19.29 W,SPGFD,"Effingham Hosp-Springfield, GA",,NO
+33 30.82 N,84 13.69 W,STCKB,"Piedmont Henry Hosp-Stockbridge, GA",43GA,YES
+33 56.91 N,83 24.42 W,STMRY,"St Marys Hosp-Athens, GA",7GA0,YES
+32 35.57 N,82 20.88 W,SWAIN,"Emanuel Med Ctr-Swainsboro, GA",93GA,YES
+32 45.09 N,81 38.63 W,SYLVN,"Optim Med Ctr Screven-Sylvania, GA",,NO
+31 30.74 N,83 50.42 W,SYLVS,"Phoebe Worth Med Ctr-Sylvester, GA",,NO
+33 31.43 N,82 30.16 W,THOMH,"University Hosp McDuffie-Thomson, GA",,NO
+31 28.25 N,83 29.47 W,TIFTN,"Tift Reg Med Ctr-Tifton, GA",,NO
+30 51.72 N,83 17.14 W,VALDO,"South Georgia Med Ctr-Valdosta, GA",54GA,YES
+32 12.54 N,82 22.58 W,VIDAL,"Memorial Health Meadows Hosp-Vidalia, GA",,NO
+33 44.67 N,84 54.91 W,VILRC,"Tanner Med Ctr Villa Rica-Villa Rica, GA",87GA,YES
+33 45.76 N,84 22.44 W,WAMC,"WellStar Atlanta Med Ctr-Atlanta, GA",,NO
+33 40.77 N,84 25.64 W,WAMCS,"WellStar Atlanta Med Ctr South-Atlanta, GA",GA71,YES
+33 05.00 N,82 00.80 W,WAYNE,"Burke Med Ctr-Waynesboro, GA",2GE1,YES
+34 00.49 N,83 42.50 W,WINDR,"Northeast Georgia Med Ctr Barrow-Winder, GA",59GA,YES
 33 43.73 N,82 44.60 W,WSHTN,"Wills Mem Hosp-Washington, GA",,NO
