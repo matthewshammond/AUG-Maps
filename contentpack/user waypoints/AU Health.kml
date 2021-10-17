@@ -274,6 +274,14 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>EMORY_UNIV_HOSP</name>
+      <description>ATLANTA, GA EMRY 7GA8</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.32266666,33.791833333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>EMORY_UNIV_HOSP_MIDTOWN</name>
       <description>ATLANTA, GA EMORY GA64</description>
       <styleUrl>#style1</styleUrl>
@@ -898,14 +906,6 @@ SELMEM ER</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>-82.743333333333,33.72883333,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>EMORY_UNIV_HOSP</name>
-      <description>ATLANTA, GA EMRY 7GA8</description>
-      <styleUrl>#style1</styleUrl>
-      <Point>
-        <coordinates>-84.32266666,33.791833333,0</coordinates>
       </Point>
     </Placemark>
   </Document>
