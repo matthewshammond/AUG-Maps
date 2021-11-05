@@ -578,6 +578,14 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>OPTIM_MED_CTR_TATTNALL</name>
+      <description>REIDSVILLE, GA REIDS</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.10916666,32.079833333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>PAULDING_MEM_HOSP</name>
       <description>DALLAS, GA PAULD GA69</description>
       <styleUrl>#style1</styleUrl>
