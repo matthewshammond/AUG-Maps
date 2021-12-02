@@ -365,6 +365,14 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>JEFF_DAVIS_HOSP</name>
+      <description>HAZLEHURST, GA HAZLE</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-82.60766666,31.856666666,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>JEFFERSON_COUNTY_HOSP</name>
       <description>LOUISVILLE, GA LOUIS</description>
       <styleUrl>#style1</styleUrl>
