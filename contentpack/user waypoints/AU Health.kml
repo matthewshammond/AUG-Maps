@@ -673,6 +673,14 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>PIEDMONT_MACON_MED_CTR</name>
+      <description>MACON, GA MACN</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.61750000,32.846833333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>PIEDMONT_MOUNTAINSIDE_HOSP</name>
       <description>JASPER, GA JASPR</description>
       <styleUrl>#style1</styleUrl>
