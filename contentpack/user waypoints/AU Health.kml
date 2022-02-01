@@ -274,6 +274,14 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>EMORY_SAINT_JOSEPHS_HOSP</name>
+      <description>ATLANTA, GA STJOE GA52</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-84.35100000,33.908333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>EMORY_UNIV_HOSP</name>
       <description>ATLANTA, GA EMRY 7GA8</description>
       <styleUrl>#style1</styleUrl>
