@@ -199,7 +199,60 @@ Williamston FD VHF Primary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_BALDWIN</name>
-      <description></description>
+      <description>Baldwin County EMS Dispatch
+      Zone: B10
+      Ch #: 005
+      BALD EDISP
+
+Baldwin County Fire Dispatch-1
+      Zone: B10
+      Ch #: 007
+      BALD FDISP1
+
+Baldwin County Fire Dispatch-2
+      Zone: B10
+      Ch #: 008
+      BALD FDISP2
+
+Baldwin County "City Wide"
+      Zone: B10
+      Ch #: 002
+      BALD CIWD
+
+Baldwin County "County Wide"
+      Zone: B10
+      Ch #: 003
+      BALD COWD
+
+Baldwin County EMS TAC
+      Zone: B10
+      Ch #: 006
+      BALD ETAC
+
+Georgia College State University Police Dispatch
+      Zone: B10
+      Ch #: 009
+      BALD GCSUPD
+
+Georgia Military College Police Dispatch
+      Zone: B10
+      Ch #: 010
+      BALD GMCPD
+
+Milledgeville Police Dispatch
+      Zone: B10
+      Ch #: 011
+      BALD MPD
+
+Baldwin County Sherrif's Office Dispatch
+      Zone: B10
+      Ch #: 012
+      BALD SODISP
+
+Baldwin County E911 Administrative
+      Zone: B10
+      Ch #: 004
+      BALD E911</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -352,7 +405,11 @@ Barnwell Co EMS uses SC AIR-1 as Primary for Patient Info
     </Placemark>
     <Placemark>
       <name>COUNTY_BRYAN</name>
-      <description></description>
+      <description>Bryan Co Air-to-Ground
+      Favorite Zone/Ch:
+      Zone:
+      Ch #:
+      BRYAN AIR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -361,7 +418,15 @@ Barnwell Co EMS uses SC AIR-1 as Primary for Patient Info
     </Placemark>
     <Placemark>
       <name>COUNTY_BULLOCH</name>
-      <description></description>
+      <description>Bulloch Co EMS Dispatch Primary Air-to-Ground
+      Zone:
+      Ch #:
+      BULOCH EMS
+
+Bulloch Co Air-to-Ground
+      Zone:
+      Ch #:
+      BULOCH AIR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -428,7 +493,15 @@ Calhoun Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_CANDLER</name>
-      <description></description>
+      <description>Candler Co EMS Dispatch Primary Air-to-Ground
+      Zone:
+      Ch #:
+      CANDL EMS
+
+Candler Co Air-to-Ground
+      Zone:
+      Ch #:
+      CANDL AIR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -492,7 +565,10 @@ Charleston ER-3 MCI Incident-Makeshift Hospital
     </Placemark>
     <Placemark>
       <name>COUNTY_CHATHAM</name>
-      <description></description>
+      <description>Chatham Co Air-to-Ground
+      Zone:
+      Ch #:
+      CHATHM AIR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -641,16 +717,28 @@ Charleston ER-3 MCI Incident-Makeshift Hospital
     <Placemark>
       <name>COUNTY_COLUMBIA</name>
       <description>Columbia Co Primary Air-to-Ground
+      Favorite Zone/Ch: B01/002
+      Zone: B10
+      Ch #: 013
+      COLM AUMC
+
+Columbia Co Mutual Aid-1 Secondary Air-to-Ground
       Favorite Zone/Ch: B01/003
       Zone: B10
-      Ch #: 002
-      AUMC
-      
-Columbia Co EMS-2 (Gold Cross EMS)
+      Ch #: 014
+      COLM MA-1
+
+Columbia Co Mutual Aid-2 Secondary Air-to-Ground
+      Favorite Zone/Ch: B01/004
+      Zone: B10
+      Ch #: 015
+      COLM MA-2
+
+Columbia Co Mutual Aid-3 Secondary Air-to-Ground
       Favorite Zone/Ch: B01/005
       Zone: B10
-      Ch #: 004
-      COL EMS-2</description>
+      Ch #: 016
+      COLM MA-3</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -845,7 +933,11 @@ Edgefield Co EMS South Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_EFFINGHAM</name>
-      <description></description>
+      <description>Effingham Co Primary Air-to-Ground
+      Favorite Zone/Ch:
+      Zone:
+      Ch #:
+      EFFNHM AIR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1048,7 +1140,6 @@ Franklin Co Fire Gerrard Rd Tower Secondary Air-to-Ground
     <Placemark>
       <name>COUNTY_GREENE</name>
       <description>Greene Co 800MHz Primary Air-to-Ground
-      Favorite Zone/Ch: B01/005
       Zone: B90
       Ch #: 002
       8CALL-90D
@@ -1143,7 +1234,11 @@ Hampton Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_HANCOCK</name>
-      <description></description>
+      <description>Hancock Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1177,8 +1272,8 @@ Hampton Co Secondary Air-to-Ground
       
 Hart Co Fire Dispatch
       Zone: A10
-      Ch #: 009
-      GREEN HEAR</description>
+      Ch #: 011
+      HART FIRE</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1285,7 +1380,11 @@ Hart Co Fire Dispatch
     </Placemark>
     <Placemark>
       <name>COUNTY_JENKINS</name>
-      <description></description>
+      <description>Jenkins Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1294,7 +1393,16 @@ Hart Co Fire Dispatch
     </Placemark>
     <Placemark>
       <name>COUNTY_JOHNSON</name>
-      <description></description>
+      <description>Johnson Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR
+
+Johnson Co Secondary Air-to-Ground
+      Zone: A10
+      Ch #: 003
+      GA FIRE MA</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1303,7 +1411,11 @@ Hart Co Fire Dispatch
     </Placemark>
     <Placemark>
       <name>COUNTY_JONES</name>
-      <description></description>
+      <description>Jones Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1348,7 +1460,11 @@ Hart Co Fire Dispatch
     </Placemark>
     <Placemark>
       <name>COUNTY_LAURENS_GA</name>
-      <description></description>
+      <description>Laurens Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1470,7 +1586,11 @@ Lexington Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_MADISON</name>
-      <description></description>
+      <description>Madison Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1588,7 +1708,11 @@ McCormick Co Backup Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_MONTGOMERY</name>
-      <description></description>
+      <description>Montgomery Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1597,7 +1721,11 @@ McCormick Co Backup Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_MORGAN</name>
-      <description></description>
+      <description>Morgan Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1667,7 +1795,11 @@ McCormick Co Backup Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_OGLETHORPE</name>
-      <description></description>
+      <description>Oglethorpe Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1761,7 +1893,11 @@ McCormick Co Backup Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_PUTNAM</name>
-      <description></description>
+      <description>Putnam Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1815,17 +1951,23 @@ Richland Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_RICHMOND</name>
-      <description>Richmond Co Primary Air-to-Ground
+      <description>Richmond Co Public Safety Event-1 Primary Air-to-Ground
+      Favorite Zone/Ch: B01/006
+      Zone: B10
+      Ch #: 017
+      RICH EVNT-1
+
+Richmond Co Public Safety Event-2 Secondary Air-to-Ground
+      Favorite Zone/Ch: B01/007
+      Zone: B10
+      Ch #: 018
+      RICH EVNT-2
+
+Richmond Co Primary Air-to-Ground
       Favorite Zone/Ch: A01/001
       Zone: A10
       Ch #: 001
-      GA/SC HEAR
-      
-Richmond Co EMS-1 (Gold Cross EMS)
-      Favorite Zone/Ch: B01/004
-      Zone: B10
-      Ch #: 003
-      RICH EMS-1</description>
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1930,7 +2072,6 @@ Stephens Co Secondary Air-to-Ground
       Ch #: 013
       STPHN EMS</description>
       <styleUrl>#style1</styleUrl>
-      <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
         -83.29343713724229,34.5539508555282,0</coordinates>
@@ -1974,7 +2115,11 @@ Stephens Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_TALIAFERRO</name>
-      <description></description>
+      <description>Taliaferro Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1983,7 +2128,11 @@ Stephens Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_TATTNALL</name>
-      <description></description>
+      <description>Tattnall Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -2037,7 +2186,11 @@ Stephens Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_TOOMBS</name>
-      <description></description>
+      <description>Toombs Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -2055,7 +2208,11 @@ Stephens Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_TREUTLEN</name>
-      <description></description>
+      <description>Treutlen Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -2189,7 +2346,11 @@ Stephens Co Secondary Air-to-Ground
     </Placemark>
     <Placemark>
       <name>COUNTY_WHEELER</name>
-      <description></description>
+      <description>Wheeler Co Primary Air-to-Ground
+      Favorite Zone/Ch: A01/001
+      Zone: A10
+      Ch #: 001
+      GA/SC HEAR</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>

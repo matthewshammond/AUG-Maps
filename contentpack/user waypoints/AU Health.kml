@@ -40,7 +40,7 @@
       <name>AIKEN_REG_MED_CTR</name>
       <description>AIKEN, SC AIKEN
 
-Favorite Zone/Ch: B01/015
+Favorite Zone/Ch: B01/016
 Zone: B20
 Ch #: 009
 AIKN ER</description>
@@ -443,7 +443,7 @@ GA/SC HEAR</description>
       <name>MEDICAL_UNIVERSITY_OF_SOUTH_CAROLINA_HEALTH</name>
       <description>CHARLESTON, SC MUSCH SC71
 
-Favorite Zone/Ch: B01/016
+Favorite Zone/Ch: B01/017
 Zone: B20
 Ch #: 014
 MUSC ER</description>
@@ -734,9 +734,9 @@ GA/SC HEAR</description>
       <name>RICHLAND_MEM_HOSP</name>
       <description>COLUMBIA, SC RCHLN SC22
 
-Favorite Zone/Ch: B01/017
+Favorite Zone/Ch: B01/018
 Zone: B20
-Ch #: 021
+Ch #: 020
 RICHLND ER</description>
       <styleUrl>#style1</styleUrl>
       <Point>
