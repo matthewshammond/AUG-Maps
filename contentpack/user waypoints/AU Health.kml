@@ -163,6 +163,14 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>CRISP_REG_HEALTH</name>
+      <description>CORDELE, GA CRISP</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-83.78166666,31.976500000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>DOCTORS_HOSP</name>
       <description>AUGUSTA, GA AUGDR 8GA4
 
