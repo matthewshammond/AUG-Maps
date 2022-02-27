@@ -516,15 +516,6 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
-      <name>NEWTON_GEN_HOSP</name>
-      <description>COVINGTON, GA COVNG 71GA</description>
-      <styleUrl>#style1</styleUrl>
-      <Point>
-        <coordinates>
-        -83.8486666666667,33.6018333333333,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>NORTH_FULTON_HOSP</name>
       <description>ROSWELL, GA ROSWL</description>
       <styleUrl>#style1</styleUrl>
@@ -711,6 +702,15 @@ GA/SC HEAR</description>
       <Point>
         <coordinates>
         -84.7558333333333,33.3583333333333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_NEWTON_HOSP</name>
+      <description>COVINGTON, GA COVNG 71GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -83.8486666666667,33.6018333333333,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
