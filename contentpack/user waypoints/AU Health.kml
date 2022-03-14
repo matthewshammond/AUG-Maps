@@ -139,7 +139,10 @@ GA/SC HEAR</description>
     </Placemark>
     <Placemark>
       <name>CHOA_SCOTTISH_RITE</name>
-      <description>SANDY SPRINGS, GA SCRT GA11</description>
+      <description>SANDY SPRINGS, GA SCRT GA11
+
+A Pad = East Side (ER)
+B Pad = Northwest Side (Burn)</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
