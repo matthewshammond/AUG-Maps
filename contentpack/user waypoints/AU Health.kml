@@ -335,15 +335,6 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
-      <name>GEORGIA_UNIVERSITY_MED_CTR</name>
-      <description>AUGUSTA, GA AUGMC GA13</description>
-      <styleUrl>#style1</styleUrl>
-      <Point>
-        <coordinates>
-        -81.9831666666667,33.4716666666667,0</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>GRADY_MEM_HOSP</name>
       <description>ATLANTA, GA GRADY 1GE8</description>
       <styleUrl>#style1</styleUrl>
@@ -662,6 +653,15 @@ GA/SC HEAR</description>
       <Point>
         <coordinates>
         -84.3951666666667,33.80966667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIEDMONT_AUGUSTA_HOSP</name>
+      <description>AUGUSTA, GA AUGPH GA13</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>
+        -81.9831666666667,33.4716666666667,0</coordinates>
       </Point>
     </Placemark>
     <Placemark>
