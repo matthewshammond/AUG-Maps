@@ -657,7 +657,7 @@ GA/SC HEAR</description>
     </Placemark>
     <Placemark>
       <name>PIEDMONT_AUGUSTA_HOSP</name>
-      <description>AUGUSTA, GA AUGPH GA13</description>
+      <description>AUGUSTA, GA AUGPM GA13</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
