@@ -764,6 +764,14 @@ RICHLND ER</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>SAINT_JOSEPHS_HOSP</name>
+      <description>SAVANNAH, GA STSAV 46GA</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.15600000,31.984833333,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
       <name>SELF_REG_MED_CTR</name>
       <description>GREENWOOD, SC GRNWD
 
