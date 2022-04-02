@@ -88,7 +88,12 @@ Aiken Co Fire Tower "G" - Kirkland Hill - Primary Air-to-Ground
       Favorite Zone/Ch: A01/012
       Zone: A20
       Ch #: 011
-      AIKN FIRE-G</description>
+      AIKN FIRE-G
+
+Aiken ES Backup Air-to-Ground
+      Zone: B20
+      Ch #: 008
+      AIKN EMS-2</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -201,57 +206,57 @@ Williamston FD VHF Primary Air-to-Ground
       <name>COUNTY_BALDWIN</name>
       <description>Baldwin County EMS Dispatch
       Zone: B10
-      Ch #: 005
+      Ch #: 006
       BALD EDISP
 
 Baldwin County Fire Dispatch-1
       Zone: B10
-      Ch #: 007
+      Ch #: 008
       BALD FDISP1
 
 Baldwin County Fire Dispatch-2
       Zone: B10
-      Ch #: 008
+      Ch #: 009
       BALD FDISP2
 
 Baldwin County "City Wide"
       Zone: B10
-      Ch #: 002
+      Ch #: 003
       BALD CIWD
 
 Baldwin County "County Wide"
       Zone: B10
-      Ch #: 003
+      Ch #: 004
       BALD COWD
 
 Baldwin County EMS TAC
       Zone: B10
-      Ch #: 006
+      Ch #: 007
       BALD ETAC
 
 Georgia College State University Police Dispatch
       Zone: B10
-      Ch #: 009
+      Ch #: 010
       BALD GCSUPD
 
 Georgia Military College Police Dispatch
       Zone: B10
-      Ch #: 010
+      Ch #: 011
       BALD GMCPD
 
 Milledgeville Police Dispatch
       Zone: B10
-      Ch #: 011
+      Ch #: 012
       BALD MPD
 
 Baldwin County Sherrif's Office Dispatch
       Zone: B10
-      Ch #: 012
+      Ch #: 013
       BALD SODISP
 
 Baldwin County E911 Administrative
       Zone: B10
-      Ch #: 004
+      Ch #: 005
       BALD E911</description>
       <styleUrl>#style1</styleUrl>
       <Point>
@@ -405,11 +410,45 @@ Barnwell Co EMS uses SC AIR-1 as Primary for Patient Info
     </Placemark>
     <Placemark>
       <name>COUNTY_BRYAN</name>
-      <description>Bryan Co Air-to-Ground
-      Favorite Zone/Ch:
-      Zone:
-      Ch #:
-      BRYAN AIR</description>
+      <description>Bryan Co Fire Dispatch - North
+      Zone: B10
+      Ch #: 014
+      BRYAN FD-N
+
+Bryan Co Fire Dispatch - South
+      Zone: B10
+      Ch #: 015
+      BRYAN FD-S
+
+Bryan Co Fire TAC-1
+      Zone: B10
+      Ch #: 016
+      BRYAN TAC1
+
+Bryan Co Fire TAC-2
+      Zone: B10
+      Ch #: 017
+      BRYAN TAC2
+
+Bryan Co Fire TAC-3
+      Zone: B10
+      Ch #: 018
+      BRYAN TAC3
+
+Bryan Co Fire TAC-4
+      Zone: B10
+      Ch #: 019
+      BRYAN TAC4
+
+Bryan Co Fire TAC-5
+      Zone: B10
+      Ch #: 020
+      BRYAN TAC5
+
+Bryan Co Fire TAC-6
+      Zone: B10
+      Ch #: 021
+      BRYAN TAC6</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -419,14 +458,9 @@ Barnwell Co EMS uses SC AIR-1 as Primary for Patient Info
     <Placemark>
       <name>COUNTY_BULLOCH</name>
       <description>Bulloch Co EMS Dispatch Primary Air-to-Ground
-      Zone:
-      Ch #:
-      BULOCH EMS
-
-Bulloch Co Air-to-Ground
-      Zone:
-      Ch #:
-      BULOCH AIR</description>
+      Zone: B10
+      Ch #: 022
+      BULOCH EMS</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -494,14 +528,9 @@ Calhoun Co Secondary Air-to-Ground
     <Placemark>
       <name>COUNTY_CANDLER</name>
       <description>Candler Co EMS Dispatch Primary Air-to-Ground
-      Zone:
-      Ch #:
-      CANDL EMS
-
-Candler Co Air-to-Ground
-      Zone:
-      Ch #:
-      CANDL AIR</description>
+      Zone: B10
+      Ch #: 023
+      CANDLER EMS</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -565,10 +594,15 @@ Charleston ER-3 MCI Incident-Makeshift Hospital
     </Placemark>
     <Placemark>
       <name>COUNTY_CHATHAM</name>
-      <description>Chatham Co Air-to-Ground
-      Zone:
-      Ch #:
-      CHATHM AIR</description>
+      <description>Chatham Co Emergency Services Fire Dispatch
+      Zone: B10
+      Ch #: 026
+      CHTHM FD
+
+Chatham County Fire Common
+      Zone: B10
+      Ch #: 025
+      CHTHM COM</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -717,27 +751,27 @@ Charleston ER-3 MCI Incident-Makeshift Hospital
     <Placemark>
       <name>COUNTY_COLUMBIA</name>
       <description>Columbia Co Primary Air-to-Ground
-      Favorite Zone/Ch: B01/002
+      Favorite Zone/Ch: B01/004
       Zone: B10
-      Ch #: 013
+      Ch #: 029
       COLM AUMC
 
 Columbia Co Mutual Aid-1 Secondary Air-to-Ground
-      Favorite Zone/Ch: B01/003
+      Favorite Zone/Ch: B01/005
       Zone: B10
-      Ch #: 014
+      Ch #: 030
       COLM MA-1
 
 Columbia Co Mutual Aid-2 Secondary Air-to-Ground
-      Favorite Zone/Ch: B01/004
+      Favorite Zone/Ch: B01/006
       Zone: B10
-      Ch #: 015
+      Ch #: 031
       COLM MA-2
 
 Columbia Co Mutual Aid-3 Secondary Air-to-Ground
-      Favorite Zone/Ch: B01/005
+      Favorite Zone/Ch: B01/007
       Zone: B10
-      Ch #: 016
+      Ch #: 032
       COLM MA-3</description>
       <styleUrl>#style1</styleUrl>
       <Point>
@@ -934,10 +968,39 @@ Edgefield Co EMS South Secondary Air-to-Ground
     <Placemark>
       <name>COUNTY_EFFINGHAM</name>
       <description>Effingham Co Primary Air-to-Ground
-      Favorite Zone/Ch:
-      Zone:
-      Ch #:
-      EFFNHM AIR</description>
+      Zone: B10
+      Ch #: 033
+      EFFNHM AIR
+
+Effingham Co Fire Dispatch
+      Zone: B10
+      Ch #: 034
+      EFFNHM FD
+
+Effingham Co Incident-1
+      Zone: B10
+      Ch #: 035
+      EFFNHM IC1
+
+Effingham Co Incident-2
+      Zone: B10
+      Ch #: 036
+      EFFNHM IC2
+
+Effingham Co Incident-3
+      Zone: B10
+      Ch #: 037
+      EFFNHM IC3
+
+Effingham Co Incident-4
+      Zone: B10
+      Ch #: 038
+      EFFNHM IC4
+
+Effingham Co Incident-5
+      Zone: B10
+      Ch #: 039
+      EFFNHM IC5</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>
@@ -1952,15 +2015,15 @@ Richland Co Secondary Air-to-Ground
     <Placemark>
       <name>COUNTY_RICHMOND</name>
       <description>Richmond Co Public Safety Event-1 Primary Air-to-Ground
-      Favorite Zone/Ch: B01/006
+      Favorite Zone/Ch: B01/008
       Zone: B10
-      Ch #: 017
+      Ch #: 040
       RICH EVNT-1
 
 Richmond Co Public Safety Event-2 Secondary Air-to-Ground
-      Favorite Zone/Ch: B01/007
+      Favorite Zone/Ch: B01/009
       Zone: B10
-      Ch #: 018
+      Ch #: 041
       RICH EVNT-2
 
 Richmond Co Primary Air-to-Ground

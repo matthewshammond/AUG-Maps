@@ -114,6 +114,19 @@ GA/SC HEAR</description>
       </Point>
     </Placemark>
     <Placemark>
+      <name>CANDLER_HOSP</name>
+      <description>SAVANNAH, GA CNDER
+
+Zone: B10
+Ch #: 024
+CHTHM CNDER</description>
+      <styleUrl>#style1</styleUrl>
+      <Point>
+        <coordinates>-81.15600000,31.984833333,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
       <name>CARTERSVILLE_MED_CTR</name>
       <description>CARTERSVILLE, GA CARTR</description>
       <styleUrl>#style1</styleUrl>
@@ -466,10 +479,10 @@ MUSC ER</description>
       <name>MEMORIAL_HOSP</name>
       <description>SAVANNAH, GA SAVAN GA37
 
-Favorite Zone/Ch: A01/001
-Zone: A10
-Ch #: 001
-GA/SC HEAR</description>
+Favorite Zone/Ch: B01/003
+Zone: B10
+Ch #: 027
+CHTHM MMCER</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>-81.0885,32.029,0</coordinates>
@@ -765,7 +778,11 @@ RICHLND ER</description>
     </Placemark>
     <Placemark>
       <name>SAINT_JOSEPHS_HOSP</name>
-      <description>SAVANNAH, GA STSAV 46GA</description>
+      <description>SAVANNAH, GA STSAV 46GA
+
+Zone: B10
+Ch #: 028
+CHTHM STJER</description>
       <styleUrl>#style1</styleUrl>
       <Point>
         <coordinates>-81.15600000,31.984833333,0</coordinates>
