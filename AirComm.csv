@@ -23,6 +23,7 @@
 34 12.09 N,84 47.65 W,CARTR,"Cartersville Med Ctr-Cartersville, GA",,NO
 34 46.84 N,84 47.01 W,CHATS,"AdventHealth Murray-Chatsworth, GA",,NO
 34 41.62 N,79 55.20 W,CHRAW,"McLeod Health Cheraw-Cheraw, SC",,NO
+31 59.09 N,81 09.36 W,CNDER,"CANDLER HOSP-SAVANNAH, GA",,NO
 32 28.87 N,84 58.82 W,COLUM,"Med Ctr of Columbus GA-Columbus, GA",01GA,YES
 34 13.12 N,83 28.22 W,COMMR,"Northridge Med Ctr-Commerce, GA",,NO
 33 40.80 N,84 00.17 W,CONYR,"Rockdale Med Ctr-Conyers, GA",3GE5,YES
@@ -72,6 +73,7 @@
 32 33.88 N,82 59.10 W,KDBN,"KDBN-Dublin, GA",KDBN,YES
 33 27.99 N,82 02.36 W,KDNL,"KDNL-Augusta, GA",KDNL,YES
 34 05.72 N,82 49.05 W,KEBA,"KEBA-Elberton, GA",KEBA,YES
+33 58.06 N,84 33.08 W,KENST,"Wellstar Kennestone Hosp-Marietta, GA",56GA,YES
 32 12.98 N,83 07.72 W,KEZM,"KEZM-Eastman, GA",KEZM,YES
 34 15.02 N,82 09.47 W,KGRD,"KGRD-Greenwod, SC",KGRD,YES
 33 31.78 N,82 31.02 W,KHQU,"KHQU-Thomson, GA",KHQU,YES
@@ -91,7 +93,6 @@
 31 25.77 N,83 29.35 W,KTMA,"KTMA-Tifton, GA",KTMA,YES
 32 11.56 N,82 22.27 W,KVDI,"KVDI-Vidalia, GA",KVDI,YES
 30 46.88 N,83 16.57 W,KVLD,"KVLD-Valdosta, GA",KVLD,YES
-33 58.06 N,84 33.08 W,KENST,"Wellstar Kennestone Hosp-Marietta, GA",56GA,YES
 33 01.89 N,85 03.43 W,LAGRG,"West Georgia Med Ctr-Lagrange, GA",GA33,YES
 34 26.48 N,83 07.86 W,LAVON,"St Marys Sacred Heart Hosp-Lavonia, GA",,NO
 33 57.81 N,84 01.10 W,LAWVL,"Northside Hosp Gwinnett-Lawrenceville, GA",55GA,YES
